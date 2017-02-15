@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 *.DS_Store
+=======
+>>>>>>> 376140080149ca45bc9f2738248b504469665ec0
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
@@ -42,3 +45,7 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+<<<<<<< HEAD
+=======
+
+>>>>>>> 376140080149ca45bc9f2738248b504469665ec0
