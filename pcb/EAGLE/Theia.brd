@@ -9,7 +9,7 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.0125" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -151,6 +151,7 @@
 <wire x1="2.54" y1="53.34" x2="2.54" y2="50.8" width="0.254" layer="20"/>
 <wire x1="2.54" y1="50.8" x2="0" y2="48.26" width="0.254" layer="20"/>
 <text x="57.785" y="7.3025" size="0.762" layer="25" rot="R90">Common Cathode</text>
+<text x="43.18" y="50.4825" size="1.524" layer="25" font="vector">Theia - 1.0</text>
 </plain>
 <libraries>
 <library name="adafruit">
